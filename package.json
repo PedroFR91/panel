@@ -2,7 +2,7 @@
   "name": "demo1",
   "version": "8.1.8",
   "private": false,
-  "homepage": "/metronic8/react/panel",
+  "homepage": "https://master.d9wtozd1oc8ac.amplifyapp.com/",
   "dependencies": {
     "@formatjs/intl-pluralrules": "4.3.3",
     "@formatjs/intl-relativetimeformat": "10.0.1",
